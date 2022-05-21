@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99037720835",
+    "firebase_url": "https://taxi-1426a-default-rtdb.firebaseio.com",
+    "project_id": "taxi-1426a",
+    "storage_bucket": "taxi-1426a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99037720835:android:ab665c9434dcb2a31bf936",
+        "android_client_info": {
+          "package_name": "com.yusifghonim.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99037720835-90cojm6bc0hu9uu4rh0ra3c151arqhh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "$API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99037720835-90cojm6bc0hu9uu4rh0ra3c151arqhh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
