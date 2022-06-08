@@ -14,3 +14,18 @@ I wanted to make this project to learn how to connect two apps with the same dat
 - API
 - Firebase Authentication 
 - Cloud Firestore
+
+<br />
+
+<details>
+  <summary>Project Screenshots</summary>
+  <img src="Taxi/taxi1.png" name="screenshot1 width="200" height="400"">
+  <img src="Taxi/taxi2.png" name="screenshot2 width="200" height="400"">
+  <img src="Taxi/taxi3.png" name="screenshot3 width="200" height="400"">
+  <img src="Taxi/taxi4.png" name="screenshot4 width="200" height="400"">
+  <img src="Taxi/taxi5.png" name="screenshot5 width="200" height="400"">
+  <img src="Taxi/taxi6.png" name="screenshot6 width="200" height="400"">
+  <img src="Taxi/taxi7.png" name="screenshot7 width="200" height="400"">
+  <img src="Taxi/taxi8.png" name="screenshot8 width="200" height="400"">
+  <img src="Taxi/taxi9.png" name="screenshot9 width="200" height="400"">
+  <img src="Taxi/taxi10.png" name="screenshot10 width="200" height="400"">
